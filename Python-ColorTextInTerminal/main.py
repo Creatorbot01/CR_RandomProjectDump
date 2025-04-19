@@ -1,11 +1,6 @@
 import sys, os, random, time, winsound
 
-#ansi enabler
-has_colors = sys.stdout.isatty()
-if __name__ == "__main__":
-    # Enable ANSI colors on Windows
-    if sys.platform == "win32" and not has_colors:
-        os.system("")
+os.system("")
 
 #ColorList
 # FOREGROUND (TEXT) COLORS
