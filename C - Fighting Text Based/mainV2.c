@@ -1,5 +1,3 @@
-//Muhammad Aiman Akmal Bin Yahya
-//17DTK24F1013
 //Final project: Text-Based Fighting Game
 
 //List to do
