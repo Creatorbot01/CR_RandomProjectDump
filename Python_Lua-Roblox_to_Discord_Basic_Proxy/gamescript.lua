@@ -3,7 +3,7 @@ Roblox model containing all thing for this https://create.roblox.com/store/asset
 This script is only made for refrence and of course it made for roblox game engine.
 ]]
 
-local webhook = "https://discordapp.com/api/webhooks/1240147733789278229/y9_EgWnxKqcymw-g1OGIlApYJJGkRLiF6K1wiqePtc5GYKL8tJDXhzQjLnb3v5HVjxxh"
+local webhook = "https://discordapp.com/api/webhooks/webhookidhere"
 
 
 local HttpService = game:GetService("HttpService")
